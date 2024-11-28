@@ -8,8 +8,10 @@ const t2 = () => {
       
 
 
-
-      tageagaega
+1
+2
+3
+4
     </div>
   )
 }
