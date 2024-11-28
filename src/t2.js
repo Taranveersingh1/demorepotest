@@ -5,7 +5,7 @@ const t2 = () => {
     <div>
       Taran2
 
-      tarangrg
+      
 
 
 
